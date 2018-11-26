@@ -1,0 +1,172 @@
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.934, 211026475480, vstest.console.dll, Using .Net Framework version:.NETStandard,Version=v2.0
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.944, 211026559877, vstest.console.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.945, 211026566079, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.945, 211026571784, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolved assembly. 
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.946, 211026582962, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.EventLogCollector: Resolving assembly.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.947, 211026587726, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.EventLogCollector: Resolved assembly. 
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.948, 211026597672, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.948, 211026601768, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolved assembly. 
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.949, 211026611183, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.950, 211026615846, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolved assembly. 
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.951, 211026628443, vstest.console.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.951, 211026629577, vstest.console.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.951, 211026630093, vstest.console.dll, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.951, 211026630633, vstest.console.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.951, 211026631180, vstest.console.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.954, 211026660476, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is starting.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.954, 211026661748, vstest.console.dll, RunTestsArgumentProcessor:Execute: Queuing Test run.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.954, 211026663233, vstest.console.dll, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.966, 211026776365, vstest.console.dll, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETStandard,Version=v2.0' for source: 'D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll'
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.966, 211026777963, vstest.console.dll, Determined framework for all sources: .NETStandard,Version=v2.0
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.968, 211026795451, vstest.console.dll, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.970, 211026815535, vstest.console.dll, Determined platform for all sources: X86
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.972, 211026837482, vstest.console.dll, Compatible sources list : 
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.972, 211026838692, vstest.console.dll, D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.978, 211026897666, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.986, 211026974155, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.986, 211026976571, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.986, 211026979074, vstest.console.dll, TestEngine: Initializing Parallel Execution as MaxCpuCount is set to: 1
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.987, 211026988149, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.994, 211027060924, vstest.console.dll, TestRequestSender is acting as server
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.996, 211027074006, vstest.console.dll, TestRunRequest.ExecuteAsync: Creating test run request.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.996, 211027078006, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.996, 211027079608, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=10,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\TestResults</ResultsDirectory>
+    <TargetPlatform>X86</TargetPlatform>
+    <TargetFrameworkVersion>.NETStandard,Version=v2.0</TargetFrameworkVersion>
+    <DesignMode>False</DesignMode>
+    <CollectSourceInformation>False</CollectSourceInformation>
+  </RunConfiguration>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Program Files\dotnet\sdk\2.1.300\vstest.console.dll" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.996, 211027080217, vstest.console.dll, TestRunRequest.ExecuteAsync: Wait for the first run request is over.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.996, 211027083070, vstest.console.dll, ParallelProxyExecutionManager: Start execution. Total sources: 1
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.997, 211027087596, vstest.console.dll, ProxyParallelExecutionManager: Triggering test run for next source: D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.997, 211027088702, vstest.console.dll, ProxyParallelExecutionManager: No sources available for execution.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:52.997, 211027089064, vstest.console.dll, ParallelProxyExecutionManager: Execution started. Started clients: 1
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:52.997, 211027089513, vstest.console.dll, TestRunRequest.ExecuteAsync: Started.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:52.997, 211027091210, vstest.console.dll, TestRunRequest.WaitForCompletion: Waiting with timeout -1.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:52.997, 211027091578, vstest.console.dll, ProxyExecutionManager: Test host is always Lazy initialize.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:52.998, 211027094140, vstest.console.dll, TestRequestSender.InitializeCommunication: initialize communication. 
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.007, 211027190225, vstest.console.dll, SocketServer.Start: Listening on endpoint : 127.0.0.1:58291
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.010, 211027215141, vstest.console.dll, DotnetTestHostmanager: Full path of dotnet.exe is C:\Program Files\dotnet\dotnet.exe
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.010, 211027216984, vstest.console.dll, DotnetTestHostmanager: File D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.runtimeconfig.json, doesnot exist
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.010, 211027217810, vstest.console.dll, DotnetTestHostmanager: Adding  --depsfile "D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.deps.json" in args
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.010, 211027218868, vstest.console.dll, AssemblyResolver: Microsoft.Extensions.DependencyModel: Resolving assembly.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.010, 211027223553, vstest.console.dll, AssemblyResolver: Microsoft.Extensions.DependencyModel: Resolved assembly. 
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.011, 211027225344, vstest.console.dll, DotnetTestHostManager: Assume published test project, with test host path = D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\testhost.dll.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.011, 211027227559, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.011, 211027228898, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Failed to load assembly.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.011, 211027232382, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.011, 211027233077, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolved from cache.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.012, 211027234356, vstest.console.dll, DotnetTestHostmanager: Unable to find tests for D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+TpTrace Error: 0 : 1055676, 5, 2018/11/26, 15:14:53.021, 211027324883, vstest.console.dll, ProxyExecutionManager.StartTestRun: Failed to start test run: System.IO.FileNotFoundException: Unable to find tests for D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager.GetTestHostProcessStartInfo(IEnumerable`1 sources, IDictionary`2 environmentVariables, TestRunnerConnectionInfo connectionInfo)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.SetupChannel(IEnumerable`1 sources, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyExecutionManager.StartTestRun(TestRunCriteria testRunCriteria, ITestRunEventsHandler eventHandler)
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.070, 211027814188, vstest.console.dll, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.070, 211027816096, vstest.console.dll, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 1055676, 5, 2018/11/26, 15:14:53.080, 211027918265, vstest.console.dll, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.080, 211027922069, vstest.console.dll, ParallelProxyExecutionManager: HandlePartialRunComplete: Total completed clients = 1, Run complete = True, Run canceled: False.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.089, 211028005066, vstest.console.dll, TestRunRequest:TestRunComplete: Starting. IsAborted:True IsCanceled:False.
+TpTrace Verbose: 0 : 1055676, 5, 2018/11/26, 15:14:53.089, 211028007560, vstest.console.dll, TestLoggerManager.HandleTestRunComplete: Ignoring as the object is disposed.
+TpTrace Information: 0 : 1055676, 5, 2018/11/26, 15:14:53.089, 211028008639, vstest.console.dll, TestRunRequest:TestRunComplete: Completed.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:53.089, 211028008988, vstest.console.dll, TestRunRequest.Dispose: Starting.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:53.089, 211028010219, vstest.console.dll, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:53.089, 211028010787, vstest.console.dll, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 1055676, 1, 2018/11/26, 15:14:53.089, 211028011548, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is completed.
+TpTrace Verbose: 0 : 1055676, 1, 2018/11/26, 15:14:53.089, 211028012184, vstest.console.dll, Executor.Execute: Exiting with exit code of 1
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.972, 217116850412, vstest.console.dll, Using .Net Framework version:.NETStandard,Version=v2.0
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.982, 217116937591, vstest.console.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.983, 217116943941, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.983, 217116950019, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolved assembly. 
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.984, 217116956436, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.EventLogCollector: Resolving assembly.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.984, 217116961147, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.Extensions.EventLogCollector: Resolved assembly. 
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.985, 217116971511, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.986, 217116975872, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolved assembly. 
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.987, 217116985478, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.987, 217116990390, vstest.console.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolved assembly. 
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.988, 217117001044, vstest.console.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.988, 217117002609, vstest.console.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.988, 217117003186, vstest.console.dll, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.988, 217117003705, vstest.console.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.989, 217117004217, vstest.console.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.991, 217117031567, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is starting.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:01.991, 217117032751, vstest.console.dll, RunTestsArgumentProcessor:Execute: Queuing Test run.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:01.992, 217117034186, vstest.console.dll, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.001, 217117127294, vstest.console.dll, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETStandard,Version=v2.0' for source: 'D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll'
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.001, 217117128904, vstest.console.dll, Determined framework for all sources: .NETStandard,Version=v2.0
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.003, 217117144975, vstest.console.dll, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.005, 217117163866, vstest.console.dll, Determined platform for all sources: X86
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.007, 217117184686, vstest.console.dll, Compatible sources list : 
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.007, 217117185717, vstest.console.dll, D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.010, 217117222416, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.018, 217117298954, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.018, 217117301557, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.019, 217117304273, vstest.console.dll, TestEngine: Initializing Parallel Execution as MaxCpuCount is set to: 1
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.019, 217117311611, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.027, 217117387906, vstest.console.dll, TestRequestSender is acting as server
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.028, 217117401559, vstest.console.dll, TestRunRequest.ExecuteAsync: Creating test run request.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.029, 217117405687, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.029, 217117407395, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=10,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\TestResults</ResultsDirectory>
+    <TargetPlatform>X86</TargetPlatform>
+    <TargetFrameworkVersion>.NETStandard,Version=v2.0</TargetFrameworkVersion>
+    <DesignMode>False</DesignMode>
+    <CollectSourceInformation>False</CollectSourceInformation>
+  </RunConfiguration>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Program Files\dotnet\sdk\2.1.300\vstest.console.dll" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.029, 217117408535, vstest.console.dll, TestRunRequest.ExecuteAsync: Wait for the first run request is over.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.029, 217117411808, vstest.console.dll, ParallelProxyExecutionManager: Start execution. Total sources: 1
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.030, 217117416490, vstest.console.dll, ProxyParallelExecutionManager: Triggering test run for next source: D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.030, 217117417702, vstest.console.dll, ProxyParallelExecutionManager: No sources available for execution.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.030, 217117417887, vstest.console.dll, ParallelProxyExecutionManager: Execution started. Started clients: 1
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.030, 217117418463, vstest.console.dll, TestRunRequest.ExecuteAsync: Started.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.030, 217117420269, vstest.console.dll, TestRunRequest.WaitForCompletion: Waiting with timeout -1.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.030, 217117420639, vstest.console.dll, ProxyExecutionManager: Test host is always Lazy initialize.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.030, 217117422556, vstest.console.dll, TestRequestSender.InitializeCommunication: initialize communication. 
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.040, 217117520116, vstest.console.dll, SocketServer.Start: Listening on endpoint : 127.0.0.1:58366
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.043, 217117545638, vstest.console.dll, DotnetTestHostmanager: Full path of dotnet.exe is C:\Program Files\dotnet\dotnet.exe
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.043, 217117547565, vstest.console.dll, DotnetTestHostmanager: File D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.runtimeconfig.json, doesnot exist
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.043, 217117548389, vstest.console.dll, DotnetTestHostmanager: Adding  --depsfile "D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.deps.json" in args
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.043, 217117549462, vstest.console.dll, AssemblyResolver: Microsoft.Extensions.DependencyModel: Resolving assembly.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.044, 217117554502, vstest.console.dll, AssemblyResolver: Microsoft.Extensions.DependencyModel: Resolved assembly. 
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.044, 217117556459, vstest.console.dll, DotnetTestHostManager: Assume published test project, with test host path = D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\testhost.dll.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.044, 217117558682, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.044, 217117560094, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Failed to load assembly.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.045, 217117564055, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.045, 217117564715, vstest.console.dll, AssemblyResolver: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolved from cache.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.045, 217117566040, vstest.console.dll, DotnetTestHostmanager: Unable to find tests for D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+TpTrace Error: 0 : 1083684, 4, 2018/11/26, 15:25:02.053, 217117649857, vstest.console.dll, ProxyExecutionManager.StartTestRun: Failed to start test run: System.IO.FileNotFoundException: Unable to find tests for D:\Development\Projects\Autofac.Extras.AggregateService\Autofac.Extras.AggregateService\bin\Debug\netstandard2.0\Autofac.Extras.AggregateService.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager.GetTestHostProcessStartInfo(IEnumerable`1 sources, IDictionary`2 environmentVariables, TestRunnerConnectionInfo connectionInfo)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.SetupChannel(IEnumerable`1 sources, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyExecutionManager.StartTestRun(TestRunCriteria testRunCriteria, ITestRunEventsHandler eventHandler)
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.103, 217118147765, vstest.console.dll, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.103, 217118149797, vstest.console.dll, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 1083684, 4, 2018/11/26, 15:25:02.114, 217118258811, vstest.console.dll, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.114, 217118263022, vstest.console.dll, ParallelProxyExecutionManager: HandlePartialRunComplete: Total completed clients = 1, Run complete = True, Run canceled: False.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.123, 217118344919, vstest.console.dll, TestRunRequest:TestRunComplete: Starting. IsAborted:True IsCanceled:False.
+TpTrace Verbose: 0 : 1083684, 4, 2018/11/26, 15:25:02.123, 217118347311, vstest.console.dll, TestLoggerManager.HandleTestRunComplete: Ignoring as the object is disposed.
+TpTrace Information: 0 : 1083684, 4, 2018/11/26, 15:25:02.123, 217118348415, vstest.console.dll, TestRunRequest:TestRunComplete: Completed.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.123, 217118348646, vstest.console.dll, TestRunRequest.Dispose: Starting.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.123, 217118350003, vstest.console.dll, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.123, 217118350808, vstest.console.dll, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 1083684, 1, 2018/11/26, 15:25:02.123, 217118351618, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is completed.
+TpTrace Verbose: 0 : 1083684, 1, 2018/11/26, 15:25:02.123, 217118352197, vstest.console.dll, Executor.Execute: Exiting with exit code of 1
